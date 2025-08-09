@@ -1,0 +1,1 @@
+console.log('FiFi app loaded');
